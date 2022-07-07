@@ -1,3 +1,5 @@
+# INTRO
+
 print("Hello!")
 print("Welcome to determinant .py calculator")
 
@@ -11,6 +13,8 @@ if y_1 == "yes":
     # for 2*2 matrix
 
     print("Since it is a 2 * 2 matrices...")
+
+    # For looping and determining the value of 2 * 2 matrices
 
     def main():
 
@@ -39,9 +43,13 @@ if y_1 == "yes":
 
     main()
 
+# For 3 * 3 matrices
+
 elif y_1 == "no":
 
     print("Then since it is a 3 * 3 matrices..")
+
+    # For looping and 3 * 3 matrices calculations
 
     def main():
         print("! a b c !")
@@ -83,5 +91,7 @@ elif y_1 == "no":
             print("The value of the give determinant is: ", determinant_3)
             print("Thank you for using determinant .py calculator.")
 
-
     main()
+
+# finished
+# It is used to find determinant value of 2 * 2 matrices and 3 * 3 matrices....
