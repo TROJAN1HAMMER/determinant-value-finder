@@ -47,6 +47,12 @@ if y_1 == "yes":
             print("determinant squared is:")
             print("!", a, b, "!")
             print("!", c, d, "!")
+            print("The adjoint of the given matrices is: ")
+            print("!", -s, q, "!")
+            print("1", r, -p, "!")
+            print("The inverse of the given matrices is: ")
+            print("!", -s/determinant_2, q/determinant_2, "!")
+            print("!", r/determinant_2, -p/determinant_2, "!")
             print("Thank you for using determinant .py calculator.")
 
     main()
