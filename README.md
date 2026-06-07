@@ -287,8 +287,7 @@ Thank you for using determinant .py calculator.
 ## Author
 
 **Developed by:**
-- **TROJAN1HAMMER** - Primary Developer
-- **HARSHITH B** - Contributor
+- **TROJAN1HAMMER/Harshith B** - Primary Developer
 
 ### Contact & Contributions
 For inquiries, contributions, or feature requests, please open an issue on the [GitHub repository](https://github.com/TROJAN1HAMMER/determinant-value-finder).
